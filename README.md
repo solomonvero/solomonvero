@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @solomonvero
 - I am a software performance engineer and automation engineer
-- 👀 I’m interested in pentesting
+- 👀 I’m interested in automation engineering,performance engineering and pentesting
 - 🌱 I’m currently learning penetration testing
-- 💞️ I’m looking to collaborate on and growth in white hacking
+- 💞️ I’m looking to collaborate on and growth in all round software testing
 - 📫 How to reach me solomonvero@gmail.com
 
 <!---
